@@ -3,6 +3,8 @@
 # Hi there, I'm Abdul Haris Muhasibi! 👋
 ### 🔌 IoT Enthusiast | 💻 Web Developer | 🛠️ Electrical Engineering
 
+---
+
 ### 🧐 About Me
 
 Saya seorang pengembang yang senang menghubungkan dunia fisik dengan digital. Fokus utama saya adalah **Internet of Things (IoT)** dan **Web Development**.
