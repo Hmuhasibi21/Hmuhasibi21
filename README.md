@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Abdul Haris Muhasibi! 👋
-### 🔌 IoT Enthusiast | 💻 Web Developer | 🛠️ Electrical Engineering
+🔌 IoT Enthusiast | 💻 Web Developer | 🛠️ Electrical Engineering
 
 ---
 
