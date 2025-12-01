@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Haris! 👋
+# Hi there, I'm Abdul Haris Muhasibi! 👋
 ### 🔌 IoT Enthusiast | 💻 Web Developer | 🛠️ Electrical Engineering
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hmuhasibi21&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Bridge%20Between%20Hardware%20&%20Software&descAlignY=51&descAlign=62)
