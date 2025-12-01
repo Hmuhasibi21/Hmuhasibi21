@@ -30,15 +30,6 @@ Saya seorang pengembang yang senang menghubungkan dunia fisik dengan digital. Fo
 
 ---
 
-### 📊 Github Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hmuhasibi21&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmuhasibi21&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/aharismuhasibi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/username-kamu)
