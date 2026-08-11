@@ -299,9 +299,9 @@ Recent work includes an authenticated, multi-user operational monitoring platfor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hmuhasibi21&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+<img height="170" src="./assets/github-stats.svg" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmuhasibi21&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" />
+<img height="170" src="./assets/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -314,7 +314,7 @@ Recent work includes an authenticated, multi-user operational monitoring platfor
 </div>
 
 <p align="center">
-  <sub>Public stat widgets only reflect data visible to their public endpoints. Private work is summarized above without exposing repository details.</sub>
+  <sub>Profile stats are generated inside this repository via GitHub Actions. Private work is summarized above without exposing repository details.</sub>
 </p>
 
 ---
