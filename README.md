@@ -30,6 +30,6 @@ Saya seorang pengembang yang senang menghubungkan dunia fisik dengan digital. Fo
 
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/aharismuhasibi)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/username-kamu)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abdul-haris-muhasibi-4943b2195/)
 
 </div>
